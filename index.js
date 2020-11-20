@@ -5,7 +5,7 @@ const store = {
     { id: cuid(), name: 'vodka-soda', checked: false },
     { id: cuid(), name: 'iced-coffee', checked: false },
     { id: cuid(), name: 'kale', checked: true },
-    { id: cuid(), name: 'macha', checked: false }
+    { id: cuid(), name: 'matcha', checked: false }
   ],
   hideCheckedItems: false
 };
