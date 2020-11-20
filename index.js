@@ -2,10 +2,10 @@
 
 const store = {
   items: [
-    { id: cuid(), name: 'apples', checked: false },
-    { id: cuid(), name: 'oranges', checked: false },
-    { id: cuid(), name: 'milk', checked: true },
-    { id: cuid(), name: 'bread', checked: false }
+    { id: cuid(), name: 'vodka-soda', checked: false },
+    { id: cuid(), name: 'iced-coffee', checked: false },
+    { id: cuid(), name: 'kale', checked: true },
+    { id: cuid(), name: 'macha', checked: false }
   ],
   hideCheckedItems: false
 };
